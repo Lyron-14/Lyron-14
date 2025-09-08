@@ -11,7 +11,7 @@
 
 ## mes projets
 
-<img src:"https://static1.thegamerimages.com/wordpress/wp-content/uploads/2025/01/vs-youtube-anupdatefromnintendo-1-48.jpg" width=50% >
+![](https://static1.thegamerimages.com/wordpress/wp-content/uploads/2025/01/vs-youtube-anupdatefromnintendo-1-48.jpg)
 
 ## Liens
 
