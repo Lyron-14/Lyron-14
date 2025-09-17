@@ -16,3 +16,4 @@
 ## Liens
 
 [Nintendo](https://www.nintendo.com/fr/)
+[Lib python](https://docs.python.org/3/library/index.html)
