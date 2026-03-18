@@ -1,13 +1,14 @@
 # Ma présentation
 
-## mes activités scolaires
+## mon activité
  
  - élève de terminale
- - spé NSI et Maths
+ - spécialités NSI et Maths
 
-## mes activités extra-scolaires
+## mes passions
  
- - les jeux vidéos
+ - jeux vidéos
+ - dessin
 
 ## mes projets
 
